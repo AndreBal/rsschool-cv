@@ -11,7 +11,6 @@ whiteswf@gmail.com
 
 Starting my career in IT after working as a doctor. I am determined, hard-working and patient. My goal is to find a perfect place to explore my potential as a developer.
 
-
 ## Skills:
 
 1. Java
