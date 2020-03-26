@@ -20,7 +20,6 @@ Starting my career in IT after working as a doctor. I am determined, hard-workin
 4. CSS
 5. Javascript
 
-
 ## Code Examples:
 Code-golf
     
